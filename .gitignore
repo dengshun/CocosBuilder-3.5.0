@@ -1,7 +1,7 @@
 # git ignore template from: http://cocoaheads.tumblr.com/post/1350304132/gitignore-template-for-xcode3-4
 # cocos2d specific
 PLBlocks.framework/*
-*.pyc 
+*.pyc
 
 # old school
 .svn
@@ -29,7 +29,7 @@ project.xcworkspace/
 # Generated files
 VersionX-revision.h
 # build products
-build/
+#build/
 *.[oa]
 # Other source repository archive directories (protects when importing)
 .hg
